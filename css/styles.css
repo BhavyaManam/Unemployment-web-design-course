@@ -1,0 +1,20 @@
+.parent{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.child{
+	width: 25%;
+	border: 1px solid #CB0ED1;
+	color: #61D10E ;
+	padding: 2%;
+	margin : 10%;
+	box-shadow: 0px 8px 8px -8px #000;
+	text-align: center;
+}
+.socialicon{
+	width: 100px;
+	border: 1px solid #000;
+	border-radius: 70%;
+}
